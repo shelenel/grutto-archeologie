@@ -12,7 +12,7 @@
         <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:4321/p/hello-world/</guid>
-        <description>&lt;img src="http://localhost:4321/ResearchArea_After_Classified.jpg" alt="Featured image of post Week 1 - Introduction to Predictive Modelling" /&gt;&lt;p&gt;In archaeological contexts, predictive modeling attempts to predict the locations of archaeological sites in landscapes based on previously conducted surveys, often relying on environmental and ecological characteristics to understand the probability behind settlement placement. Predictive models are therefore useful in the context of CRM, such as in the case of the Netherlands, where the predicting concentrations of archaeological remains is important for construction and damage prevention.&lt;/p&gt;
+        <description>&lt;img src="http://localhost:4321/p/hello-world/ResearchArea_After_Classified.jpg" alt="Featured image of post Week 1 - Introduction to Predictive Modelling" /&gt;&lt;p&gt;In archaeological contexts, predictive modeling attempts to predict the locations of archaeological sites in landscapes based on previously conducted surveys, often relying on environmental and ecological characteristics to understand the probability behind settlement placement. Predictive models are therefore useful in the context of CRM, such as in the case of the Netherlands, where the predicting concentrations of archaeological remains is important for construction and damage prevention.&lt;/p&gt;
 &lt;p&gt;Before being able to work on a predictive model, it is important to first understand how to operate the necessary software required for it, which in our case was QGIS. By manipulating and analysing various maps of the research area in QGIS, we were better able to understand the land use of the research area and how we could continue to develop a well-suited model for it.&lt;/p&gt;
 &lt;h2 id=&#34;maps&#34;&gt;&lt;strong&gt;Maps&lt;/strong&gt;
 &lt;/h2&gt;&lt;p&gt;The first basic step we had to do was to import maps. There were several types of maps we had to use such as vector, satellite imagery, elevation model (AHN), paleogeographical and geomorphological maps (And even more maps to come in weeks!) Choosing what maps to use is highly dependent on the project objective and often, multiple maps are stacked as layers to encompass a comprehensive understanding of the research area.&lt;/p&gt;
@@ -22,9 +22,7 @@
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Additional note on metadata:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Although often we work with pre-made maps given by an organisation/online provider, it is important to assess and be critical about the quality of the data provided.&lt;/p&gt;
-&lt;p&gt;In our case, the given maps (D39G and D39E) contained relatively confusing categories of land usage. An example of this is &amp;lsquo;Verblijfsrecreatie&amp;rsquo; which although translated to roughly &amp;lsquo;residential recreation&amp;rsquo; in English, it can be difficult or confusing to understand the function without giving concrete examples (e.g. camping sites? Swimming pools?).
-It was difficult having to narrow down the 25 categories to broader 8 main categories when original given categories were not defined well. This can be resolved with addition of metadata such as a code book that provides short descriptions or examples of what the category stands for.
-Fortunately, this can be improved in QGIS with the &amp;lsquo;Value Map&amp;rsquo; widget in Attributes Form. A drop down list of values can be created with their respective descriptions to be used in filling out attribute tables of maps.&lt;/p&gt;
+&lt;p&gt;In our case, the given maps (D39G and D39E) contained relatively confusing categories of land usage. An example of this is &amp;lsquo;Verblijfsrecreatie&amp;rsquo; which although translated to roughly &amp;lsquo;residential recreation&amp;rsquo; in English, it can be difficult or confusing to understand the function without giving concrete examples (e.g. camping sites? Swimming pools?). It was difficult having to narrow down the 25 categories to broader 8 main categories when original given categories were not defined well. This can be resolved with addition of metadata such as a code book that provides short descriptions or examples of what the category stands for. Fortunately, this can be improved in QGIS with the &amp;lsquo;Value Map&amp;rsquo; widget in Attributes Form. A drop down list of values can be created with their respective descriptions to be used in filling out attribute tables of maps.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;http://localhost:4321/p/hello-world/images/AttributesForm_Example.jpg&#34;
 	width=&#34;1452&#34;
 	height=&#34;421&#34;
@@ -72,7 +70,7 @@ Fortunately, this can be improved in QGIS with the &amp;lsquo;Value Map&amp;rsqu
 	srcset=&#34;http://localhost:4321/p/hello-world/images/DeMeent_UtrechtseHeuvelrugKaart_hu_3a1fd9f4e21afac4.jpg 480w, http://localhost:4321/p/hello-world/images/DeMeent_UtrechtseHeuvelrugKaart_hu_a41440206fe7cd8d.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;Taken from: https://www.heuvelrugopdekaart.nl&#34;
+		alt=&#34;Taken from: &#34;
 	
 	
 		class=&#34;gallery-image&#34; 

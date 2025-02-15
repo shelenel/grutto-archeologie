@@ -5,6 +5,9 @@
     <loc>http://localhost:4321/p/hello-world/</loc>
     <lastmod>2025-02-03T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:4321/p/hello-world/</loc>
+    <lastmod>2025-02-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:4321/</loc>
     <lastmod>2025-03-06T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -24,6 +27,9 @@
     <loc>http://localhost:4321/page/</loc>
     <lastmod>2025-03-06T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:4321/categories/bonus/</loc>
+    <lastmod>2025-02-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:4321/categories/</loc>
     <lastmod>2025-02-03T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -36,6 +42,9 @@
                 hreflang="en"
                 href="http://localhost:4321/categories/"
                 />
+  </url><url>
+    <loc>http://localhost:4321/tags/geology/</loc>
+    <lastmod>2025-02-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/post/</loc>
     <lastmod>2025-02-03T00:00:00+00:00</lastmod>

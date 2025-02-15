@@ -6,7 +6,7 @@
         <description>Recent content in Posts on Grutto Archeologie</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Mon, 03 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:4321/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 15 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:4321/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Week 1 - Introduction to Predictive Modelling</title>
         <link>http://localhost:4321/p/hello-world/</link>
         <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
@@ -84,6 +84,50 @@
 &lt;h4 id=&#34;buitenwaarden&#34;&gt;&lt;strong&gt;Buitenwaarden&lt;/strong&gt;
 &lt;/h4&gt;&lt;p&gt;Originally a floodplain of the adjacent river Rhine channel, it is now a nature reserve. It is also part of the transition between the river and forest landscape.&lt;/p&gt;
 &lt;p&gt;There are a lot more areas in the map waiting to be explored, which can tell us a lot about the context of current and historical land use.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Geology of the Netherlands</title>
+        <link>http://localhost:4321/p/geology-of-the-netherlands/</link>
+        <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:4321/p/geology-of-the-netherlands/</guid>
+        <description>&lt;img src="http://localhost:4321/p/index/images/pleistocene_nl.png" alt="Featured image of post Geology of the Netherlands" /&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:4321/p/index/images/geology_nl_meme.jpg&#34;
+	width=&#34;474&#34;
+	height=&#34;474&#34;
+	srcset=&#34;http://localhost:4321/p/index/images/geology_nl_meme_hu_7e6976749f60f3c2.jpg 480w, http://localhost:4321/p/index/images/geology_nl_meme_hu_b5300601f996a6c9.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;100&#34;
+		data-flex-basis=&#34;240px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Do you struggle in understanding how the landscape of the Netherlands came to be about today? Don&amp;rsquo;t worry, you&amp;rsquo;re not alone.&lt;/p&gt;
+&lt;p&gt;Having to summarise and explain about the geology of the Netherlands in general over the span of thousands of years seem to be a daunting task, but it is easy to just think about the (somewhat recent) general geology of the Netherlands in two phases (there are other events that caused many other things to happen but we are not geologists and will not attempt to explain those):&lt;/p&gt;
+&lt;h2 id=&#34;pleistocene&#34;&gt;Pleistocene
+&lt;/h2&gt;&lt;p&gt;Two glacials (ice age, very cold periods) happened during this time, namely the &lt;strong&gt;Saalien&lt;/strong&gt; and &lt;strong&gt;Weichselian&lt;/strong&gt;. The Weichselian came first but didn&amp;rsquo;t result in ice reaching the Netherlands. The Netherlands was just a very cold and dry desert with strong winds transporting cover sand (aeolian deposits) especially towards the south (present day Limburg) which also gave rise to the highly fertile loess (silt) there. &lt;/p&gt;
+&lt;p&gt;During the Saalien glacial, the ice did reach the Netherlands and the glaciers pushed up and transported sediment which created ridges known as ice-push moraines such as the one found in Utrechtse Heuvelrug that is within our research area! &lt;/p&gt;
+&lt;h2 id=&#34;holocene&#34;&gt;Holocene
+&lt;/h2&gt;&lt;p&gt;Temperatures rose during the Holocene which resulted in the retreat of the glaciers from the ice age and rising sea levels. The Netherlands was flooded as a result which allowed peat formation and deposition of sediment through water (fluvial and marine deposits)&lt;/p&gt;
+&lt;h2 id=&#34;how-is-geology-relevant-in-our-archaeological-research&#34;&gt;How is geology relevant in our archaeological research?
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:4321/p/index/images/pleistocene_nl.png&#34;
+	width=&#34;856&#34;
+	height=&#34;917&#34;
+	srcset=&#34;http://localhost:4321/p/index/images/pleistocene_nl_hu_d5490d1b3a2af95e.png 480w, http://localhost:4321/p/index/images/pleistocene_nl_hu_1dd36dbccef750fd.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Red area shows where Pleistocene deposits are still largely present on surface&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;93&#34;
+		data-flex-basis=&#34;224px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;The red areas have Pleistocene deposits on the surface which are well-covered by sediment (either by wind/water/peat etc.) and hence, archaeology is deemed to be better preserved in these areas. The northern part of our research area interestingly falls under the red region as well.&lt;/p&gt;
+&lt;p&gt;Our research area also then proves to be an interesting case study because it consists of most of the geological features of the Netherlands to be studied. From a moraine plateau, flood plains, river basins, cover sand as well as peat. Understanding landscape features and the processes which they are formed allows us to better associate and predict archaeology with them.&lt;/p&gt;
 </description>
         </item>
         

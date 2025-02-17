@@ -92,10 +92,10 @@
         <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:4321/p/geology-of-the-netherlands/</guid>
-        <description>&lt;img src="http://localhost:4321/p/index/images/pleistocene_nl.png" alt="Featured image of post Geology of the Netherlands" /&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:4321/p/index/images/geology_nl_meme.jpg&#34;
+        <description>&lt;img src="http://localhost:4321/p/geology-of-the-netherlands/images/pleistocene_nl.png" alt="Featured image of post Geology of the Netherlands" /&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:4321/p/geology-of-the-netherlands/images/geology_nl_meme.jpg&#34;
 	width=&#34;474&#34;
 	height=&#34;474&#34;
-	srcset=&#34;http://localhost:4321/p/index/images/geology_nl_meme_hu_7e6976749f60f3c2.jpg 480w, http://localhost:4321/p/index/images/geology_nl_meme_hu_b5300601f996a6c9.jpg 1024w&#34;
+	srcset=&#34;http://localhost:4321/p/geology-of-the-netherlands/images/geology_nl_meme_hu_7e6976749f60f3c2.jpg 480w, http://localhost:4321/p/geology-of-the-netherlands/images/geology_nl_meme_hu_b5300601f996a6c9.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -112,10 +112,10 @@
 &lt;h2 id=&#34;holocene&#34;&gt;Holocene
 &lt;/h2&gt;&lt;p&gt;Temperatures rose during the Holocene which resulted in the retreat of the glaciers from the ice age and rising sea levels. The Netherlands was flooded as a result which allowed peat formation and deposition of sediment through water (fluvial and marine deposits)&lt;/p&gt;
 &lt;h2 id=&#34;how-is-geology-relevant-in-our-archaeological-research&#34;&gt;How is geology relevant in our archaeological research?
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:4321/p/index/images/pleistocene_nl.png&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:4321/p/geology-of-the-netherlands/images/pleistocene_nl.png&#34;
 	width=&#34;856&#34;
 	height=&#34;917&#34;
-	srcset=&#34;http://localhost:4321/p/index/images/pleistocene_nl_hu_d5490d1b3a2af95e.png 480w, http://localhost:4321/p/index/images/pleistocene_nl_hu_1dd36dbccef750fd.png 1024w&#34;
+	srcset=&#34;http://localhost:4321/p/geology-of-the-netherlands/images/pleistocene_nl_hu_d5490d1b3a2af95e.png 480w, http://localhost:4321/p/geology-of-the-netherlands/images/pleistocene_nl_hu_1dd36dbccef750fd.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Red area shows where Pleistocene deposits are still largely present on surface&#34;

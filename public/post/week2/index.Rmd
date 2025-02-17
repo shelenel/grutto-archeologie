@@ -1,0 +1,20 @@
+---
+categories:
+- Week 2
+date:
+2025-02-17
+description:
+Investigating existing archaeological activity around research area
+image:
+tags:
+- Week 2
+- QGIS
+- ARCHIS
+title: "Week 2 - ARCHIS and Everything Archaeology! 
+weight: 1
+output: html_document
+---
+
+During this week, we got to look into the ARCHIS (Het Archeologisch Informatiesysteem) database which basically contains all information of archaeological activity that takes place in the Netherlands.
+
+We downloaded and looked at information from version 3 of ARCHIS, which is the latest version. Before we bore you with additional details, here is a visual condensed overview of what we got out of the data:

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>QGIS on Grutto Archeologie</title>
+        <link>http://localhost:4321/tags/qgis/</link>
+        <description>Recent content in QGIS on Grutto Archeologie</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <lastBuildDate>Mon, 17 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:4321/tags/qgis/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Week 3 - Archaeological Dilemmas</title>
+        <link>http://localhost:4321/p/week3/</link>
+        <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:4321/p/week3/</guid>
+        <description>&lt;p&gt;&lt;img src=&#34;http://localhost:4321/p/week3/images/piechart_municipal_sites.png&#34;
+	width=&#34;2065&#34;
+	height=&#34;1275&#34;
+	srcset=&#34;http://localhost:4321/p/week3/images/piechart_municipal_sites_hu_d545f308fb0b5bd2.png 480w, http://localhost:4321/p/week3/images/piechart_municipal_sites_hu_13ff7448bb865158.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;161&#34;
+		data-flex-basis=&#34;388px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;This week&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Week 1 - Introduction to Predictive Modelling</title>
+        <link>http://localhost:4321/p/week1/</link>
+        <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:4321/p/week1/</guid>
+        <description>&lt;img src="http://localhost:4321/p/week1/ResearchArea_After_Classified.jpg" alt="Featured image of post Week 1 - Introduction to Predictive Modelling" /&gt;&lt;p&gt;In archaeological contexts, predictive modeling attempts to predict the locations of archaeological sites in landscapes based on previously conducted surveys, often relying on environmental and ecological characteristics to understand the probability behind settlement placement. Predictive models are therefore useful in the context of CRM, such as in the case of the Netherlands, where the predicting concentrations of archaeological remains is important for construction and damage prevention.&lt;/p&gt;
+&lt;p&gt;Before being able to work on a predictive model, it is important to first understand how to operate the necessary software required for it, which in our case was QGIS. By manipulating and analysing various maps of the research area in QGIS, we were better able to understand the land use of the research area and how we could continue to develop a well-suited model for it.&lt;/p&gt;
+&lt;h2 id=&#34;maps&#34;&gt;&lt;strong&gt;Maps&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;The first basic step we had to do was to import maps. There were several types of maps we had to use such as vector, satellite imagery, elevation model (AHN), paleogeographical and geomorphological maps (And even more maps to come in weeks!) Choosing what maps to use is highly dependent on the project objective and often, multiple maps are stacked as layers to encompass a comprehensive understanding of the research area.&lt;/p&gt;
+&lt;h3 id=&#34;understanding-land-use&#34;&gt;&lt;strong&gt;Understanding land use&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;Basic vector maps are able to show and categorise how parts of land were used.&lt;/p&gt;
+&lt;p&gt;Before and after using a clear coloured symbology to categorise land use. Choosing appropriate colours such as green for parks and blue for water sources can help direct the audience to locate significant land usage patterns. Within our research area, it is clear that there is a large forest/bos (in brown) and a Rhine river channel (middle, in blue) which can be helpful in predicting archaeology.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Additional note on metadata:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Although often we work with pre-made maps given by an organisation/online provider, it is important to assess and be critical about the quality of the data provided.&lt;/p&gt;
+&lt;p&gt;In our case, the given maps (D39G and D39E) contained relatively confusing categories of land usage. An example of this is &amp;lsquo;Verblijfsrecreatie&amp;rsquo; which although translated to roughly &amp;lsquo;residential recreation&amp;rsquo; in English, it can be difficult or confusing to understand the function without giving concrete examples (e.g. camping sites? Swimming pools?). It was difficult having to narrow down the 25 categories to broader 8 main categories when original given categories were not defined well. This can be resolved with addition of metadata such as a code book that provides short descriptions or examples of what the category stands for. Fortunately, this can be improved in QGIS with the &amp;lsquo;Value Map&amp;rsquo; widget in Attributes Form. A drop down list of values can be created with their respective descriptions to be used in filling out attribute tables of maps.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:4321/p/week1/images/AttributesForm_Example.jpg&#34;
+	width=&#34;1452&#34;
+	height=&#34;421&#34;
+	srcset=&#34;http://localhost:4321/p/week1/images/AttributesForm_Example_hu_6f9709c1be4d2951.jpg 480w, http://localhost:4321/p/week1/images/AttributesForm_Example_hu_ea7c9ee049d288ae.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;344&#34;
+		data-flex-basis=&#34;827px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:4321/p/week1/images/AttributeForm_Dropdown-01.jpg&#34;
+	width=&#34;1302&#34;
+	height=&#34;737&#34;
+	srcset=&#34;http://localhost:4321/p/week1/images/AttributeForm_Dropdown-01_hu_2408119016c959f6.jpg 480w, http://localhost:4321/p/week1/images/AttributeForm_Dropdown-01_hu_ca3ce2b5580013.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;176&#34;
+		data-flex-basis=&#34;423px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;This ensures a consistent data quality that is reproducible and minimises errors such as typos/using different words for the same category and also saves us time from typing each category individually!&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h3 id=&#34;historical-maps&#34;&gt;&lt;strong&gt;Historical Maps&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;These maps are useful in identifying culturally significant areas in the research area such as towns and specific cultivation lands. In our research area, a few areas we identified to be interesting from the given historical map were &amp;lsquo;De Meent&amp;rsquo;, the &amp;lsquo;Tabaks Plantage&amp;rsquo; and the &amp;lsquo;Buitenwaarden&amp;rsquo; near the Rhenen municipality.&lt;/p&gt;
+&lt;h4 id=&#34;de-meent&#34;&gt;&lt;strong&gt;De Meent&lt;/strong&gt;
+&lt;/h4&gt;&lt;p&gt;Although the area now consists of paved roads and a residential area, it used to be a common plot of land used by farmers in Medieval times with differences in soil conditions and height.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:4321/p/week1/images/DeMeent.jpg&#34;
+	width=&#34;652&#34;
+	height=&#34;532&#34;
+	srcset=&#34;http://localhost:4321/p/week1/images/DeMeent_hu_6ed76dbb9bd72e97.jpg 480w, http://localhost:4321/p/week1/images/DeMeent_hu_f8968b17e65cf069.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;122&#34;
+		data-flex-basis=&#34;294px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:4321/p/week1/images/DeMeent_UtrechtseHeuvelrugKaart.jpg&#34;
+	width=&#34;1848&#34;
+	height=&#34;977&#34;
+	srcset=&#34;http://localhost:4321/p/week1/images/DeMeent_UtrechtseHeuvelrugKaart_hu_3a1fd9f4e21afac4.jpg 480w, http://localhost:4321/p/week1/images/DeMeent_UtrechtseHeuvelrugKaart_hu_a41440206fe7cd8d.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Taken from: &#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;189&#34;
+		data-flex-basis=&#34;453px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;It was interesting to discover that an attempt at mapping places of heritage, archaeology and monuments has already been done by the Gementee Utrechtse Heuvelrug! &lt;/p&gt;
+&lt;h4 id=&#34;tabaks-plantage&#34;&gt;&lt;strong&gt;Tabaks Plantage&lt;/strong&gt;
+&lt;/h4&gt;&lt;p&gt;The region of Utrechtse Heuvelrug is also known to be the only region in the Netherlands where tobacco was planted, and this is reflected in the historical map showing the tobacco plantation. Although the land is now currently part of a forest.&lt;/p&gt;
+&lt;h4 id=&#34;buitenwaarden&#34;&gt;&lt;strong&gt;Buitenwaarden&lt;/strong&gt;
+&lt;/h4&gt;&lt;p&gt;Originally a floodplain of the adjacent river Rhine channel, it is now a nature reserve. It is also part of the transition between the river and forest landscape.&lt;/p&gt;
+&lt;p&gt;There are a lot more areas in the map waiting to be explored, which can tell us a lot about the context of current and historical land use.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Week 1 - Introduction to Predictive Modelling</title>
+        <link>http://localhost:4321/p/hello-world/</link>
+        <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:4321/p/hello-world/</guid>
+        <description>&lt;img src="http://localhost:4321/ResearchArea_After_Classified.jpg" alt="Featured image of post Week 1 - Introduction to Predictive Modelling" /&gt;&lt;p&gt;During this week, we got to look into the ARCHIS (Het Archeologisch Informatiesysteem) database which basically contains all information of archaeological activity that takes place in the Netherlands.&lt;/p&gt;
+&lt;p&gt;We downloaded and looked at information from version 3 of ARCHIS, which is the latest version. Before we bore you with additional details, here is a visual condensed overview of what we got out of the data:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:4321/p/hello-world/images/piechart_sitechronology.png&#34;
+	width=&#34;1096&#34;
+	height=&#34;800&#34;
+	srcset=&#34;http://localhost:4321/p/hello-world/images/piechart_sitechronology_hu_5f671e5035c1f81.png 480w, http://localhost:4321/p/hello-world/images/piechart_sitechronology_hu_26adb3f1edfff8cb.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Percentage of type of sites known within our research area&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;137&#34;
+		data-flex-basis=&#34;328px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Roman sites seem to take up almost half of the known sites, followed by the Middle Ages (Early, Middle and Late combined).&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Week 2 on Grutto Archeologie</title>
+        <link>http://localhost:4321/categories/week-2/</link>
+        <description>Recent content in Week 2 on Grutto Archeologie</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <lastBuildDate>Mon, 03 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:4321/categories/week-2/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Week 2 - Introduction to Predictive Modelling</title>
+        <link>http://localhost:4321/p/week2/</link>
+        <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:4321/p/week2/</guid>
+        <description>&lt;img src="http://localhost:4321/ResearchArea_After_Classified.jpg" alt="Featured image of post Week 2 - Introduction to Predictive Modelling" /&gt;&lt;p&gt;During this week, we got to look into the ARCHIS (Het Archeologisch Informatiesysteem) database which basically contains all information of archaeological activity that takes place in the Netherlands.&lt;/p&gt;
+&lt;p&gt;We downloaded and looked at information from version 3 of ARCHIS, which is the latest version. Before we bore you with additional details, here is a visual condensed overview of what we got out of the data:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:4321/p/hello-world/images/piechart_sitechronology.png&#34;
+	width=&#34;1096&#34;
+	height=&#34;800&#34;
+	srcset=&#34;http://localhost:4321/p/hello-world/images/piechart_sitechronology_hu_5f671e5035c1f81.png 480w, http://localhost:4321/p/hello-world/images/piechart_sitechronology_hu_26adb3f1edfff8cb.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Percentage of type of sites known within our research area&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;137&#34;
+		data-flex-basis=&#34;328px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Roman sites seem to take up almost half of the known sites, followed by the Middle Ages (Early, Middle and Late combined).&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

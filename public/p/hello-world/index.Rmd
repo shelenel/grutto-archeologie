@@ -1,0 +1,60 @@
+---
+categories:
+- Week 2
+date:
+2025-02-17
+description: Investigating existing archaeological activity around research area
+image:
+tags:
+- Week 2
+- QGIS
+- ARCHIS
+title: "Week 2 - ARCHIS and Everything Archaeology! 
+weight: 1
+output: html_document
+---
+
+```{r}
+library(ggplot2)
+
+pie_chart_df_ex <- data.frame(Category = c("Neolithic", "Mesolithic", "Early Middle Ages", "Late Middle Ages", "Roman", "Iron Age", "Bronze Age", "Paleolithic"), "freq" = c(198, 45, 487, 1046, 426, 659, 222, 52))
+
+ggplot(pie_chart_df_ex, aes (x="", y = freq, fill = factor(Category))) + 
+  geom_bar(width = 1, stat = "identity") +
+  geom_text(aes(label = paste(round(freq / sum(freq) * 100, 1), "%"), x = 1.2),
+            position = position_stack(vjust = 0.5)) +
+  theme_classic() +
+  theme(plot.title = element_text(hjust=0.5),
+        axis.line = element_blank(),
+        axis.text = element_blank(),
+        axis.ticks = element_blank()) +
+  labs(fill = "Category",
+       x = NULL,
+       y = NULL,
+       title = "Type of Sites in Research Area") + 
+  coord_polar("y")
+```
+
+```{r}
+library(ggplot2)
+
+pie_chart_df_municipal <- data.frame(Category = c("Utrechtse Heuvelrug", "Neder-Betuwe", "Ede", "Veenendaal", "Rhenen", "Tiel"), "freq" = c(483, 489, 319, 26, 1279, 345))
+
+ggplot(pie_chart_df_municipal, aes (x="", y = freq, fill = factor(Category))) + 
+  geom_bar(width = 1, stat = "identity") +
+  geom_text(aes(label = paste(round(freq / sum(freq) * 100, 1), "%"), x = 1.2),
+            position = position_stack(vjust = 0.5)) +
+  theme_classic() +
+  theme(plot.title = element_text(hjust=0.5),
+        axis.line = element_blank(),
+        axis.text = element_blank(),
+        axis.ticks = element_blank()) +
+  labs(fill = "Municipality",
+       x = NULL,
+       y = NULL,
+       title = "No. of Recorded Archaeological Sites Per Municipality") + 
+  coord_polar("y")
+
+ggsave("piechart_municipal_sites.png")
+
+```

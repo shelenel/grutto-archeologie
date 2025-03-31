@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Social Influence on Grutto Archeologie</title>
+        <link>http://localhost:4321/tags/social-influence/</link>
+        <description>Recent content in Social Influence on Grutto Archeologie</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <lastBuildDate>Wed, 12 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:4321/tags/social-influence/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Week 5 - Social influences and deductive models</title>
+        <link>http://localhost:4321/p/week5/</link>
+        <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:4321/p/week5/</guid>
+        <description>&lt;p&gt;In this week, we got to consider social factors in habitation choices of people in the past and also created deductive models based on our assumptions of human behaviour. &lt;/p&gt;
+&lt;h1 id=&#34;roman-roads&#34;&gt;&lt;strong&gt;Roman roads?!&lt;/strong&gt;
+&lt;/h1&gt;&lt;p&gt;During the Roman times, the northern border of the Roman empire (limes) reached within our research area. As a result, we are able to map the extent of the Roman road on our research area such that it can be used as a social predictor for archaeology. We combined the Roman road with the paleogeographic map dating to the Roman period based on the assumption that finds would most likely occur next to the road as well as the inactive river channel belts.&lt;/p&gt;
+
+
+
+
+
+&lt;img src=&#34;http://localhost:4321/p/week5/PM_RomanRoad_hu_4d956a7170c331a9.jpg&#34; width=&#34;628&#34; height=&#34;1000&#34; alt=&#34;&#34;&gt;
+&lt;p&gt;From the map, it was observed that many Roman finds were located close to the limes as expected. However, it was surprising that the road and many finds were located right next to the active river channel belt instead of inactive ones. This could be explained by the presence of levees (elevated lands next to river), making it reasonable for location choice of the road since it would be protected from flooding while being close to a water source. &lt;/p&gt;
+&lt;p&gt;Next, a buffer following the Roman road passing primarily through the research area was created for four distances: 250m, 1000m, 5000m, and beyond 5000m. Using this as a reference for sites during the Roman period, we can assume that there would be a high distribution of Roman sites south of the river Rhine, distributed along the Roman road.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:4321/images/Screenshot%202025-03-12%20185249.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Roman road with basic distance buffers within research area&#34;
+	
+	
+&gt; &lt;img src=&#34;http://localhost:4321/images/Screenshot%202025-03-12%20185344.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Roman deductive model with sites&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Through the combination of the Roman road buffer created in session 8, specifically the buffer for 250m, and the optimal river locations for settling during this time, it is possible to create a symbology which showcases where sites are most likely to be found. When compared to Roman sites, we see a large clustering around the most optimal location, which is pictured as the darkest red in the accompanying map, especially areas where the road ran alongside the river channel belt. This is also seen in the southern portion of the research area. There are also notable site clusterings north of the river, but none further than 5000m from the Roman road.&lt;/p&gt;
+&lt;h1 id=&#34;celtic-fields&#34;&gt;&lt;strong&gt;Celtic Fields&lt;/strong&gt;
+&lt;/h1&gt;&lt;p&gt;Celtic have been spotted in several locations from viewing the AHN3 hillshade map available from ESRI Netherlands. &lt;/p&gt;
+
+
+
+
+
+&lt;img src=&#34;http://localhost:4321/p/week5/IronAge_CelticFields_hu_4b126d609ff0ff1f.png&#34; width=&#34;1000&#34; height=&#34;786&#34; alt=&#34;&#34;&gt;
+
+
+
+
+
+&lt;img src=&#34;http://localhost:4321/p/week5/PM_CelticField_hu_9142c335f5bc240c.jpg&#34; width=&#34;800&#34; height=&#34;566&#34; alt=&#34;&#34;&gt;
+&lt;p&gt;From digitising the location of these celtic fields on our research area map in QGIS, it can be observed that some Iron Age finds do correspond with the location of celtic fields. Hence, celtic fields should also be a useful social predictor for Iron Age archaeology. &lt;/p&gt;
+&lt;h1 id=&#34;the-important-town-of-rhenen&#34;&gt;&lt;strong&gt;The important town of Rhenen&lt;/strong&gt;
+&lt;/h1&gt;
+
+
+
+
+&lt;img src=&#34;http://localhost:4321/p/week5/Rhenen_OldTownMap_hu_26804bc7344f4fd1.jpg&#34; width=&#34;800&#34; height=&#34;650&#34; alt=&#34;&#34;&gt;
+&lt;p&gt;The vicinity of Rhenen also yields many finds dating to the Middle Ages due to the town&amp;rsquo;s historical importance. It was regarded as the most advanced stronghold for the bishop of Utrecht against the Duchy of Geldre. The commandery of the Teutonic Order (a Catholic religious institution and military society) and the Cunera church were located in Rhenen, evidencing that it was once an important town. The Cunera church was also an important pilgrimage site. &lt;/p&gt;
+&lt;p&gt;Due to its strategic location close to the river Rhine and on the southeastern tip of the Utrechtse Heuveulrug, the town was also important in the battles between the Dutch and Germans during World War 2 (Battle of Grebbeberg, Grebbelinie) and for tobacco cultivation. As a result, the town was heavily destroyed during the war which could be assumed that most archaeological finds within the town center were also destroyed, leaving most finds to be located only around the town vicinity. &lt;/p&gt;
+&lt;p&gt;The historical importance of Rhenen correlates with the Middle Ages as many Late Middle Ages finds from the period are found within the square where church Cunera is located, as well as near castle Tel Horst.&lt;/p&gt;
+&lt;h1 id=&#34;river-courses&#34;&gt;&lt;strong&gt;River courses&lt;/strong&gt;
+&lt;/h1&gt;
+
+
+
+
+&lt;img src=&#34;http://localhost:4321/p/week5/mesolithic_rivercourse_hu_1e6eb928d2049ea.png&#34; width=&#34;284&#34; height=&#34;444&#34; alt=&#34;&#34;&gt;
+&lt;p&gt;A simple deductive model was made for the Mesolithic period based on river courses back then. This is under the assumption that people back then would prefer to settle close to the river. It is obvious that this model does not work for the period since most finds are not located close to the active river channel (polygon in darkest red) but instead, the furthest away from the river channel.&lt;/p&gt;
+&lt;h1 id=&#34;burial-mounds&#34;&gt;&lt;strong&gt;Burial mounds&lt;/strong&gt;
+&lt;/h1&gt;
+
+
+
+
+&lt;img src=&#34;http://localhost:4321/p/week5/PM_BronzeAge_BufferResult_hu_688d66deb1f34557.png&#34; width=&#34;473&#34; height=&#34;700&#34; alt=&#34;&#34;&gt;
+&lt;p&gt;The location of bronze age burial mounds were collected from the &lt;a class=&#34;link&#34; href=&#34;https://www.pdok.nl/introductie/-/article/beschermde-gebieden-cultuurhistorie-inspire-geharmoniseerd-&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Beschermde Gebieden - Cultuurhistorie (INSPIRE geharmoniseerd) dataset&lt;/a&gt;available via the Publieke Dienstverlening Op de Kaart (PDOK), as well as from &lt;a class=&#34;link&#34; href=&#34;https://www.heuvelrugopdekaart.nl&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Utrechtse Heuvelrug op de Kaart&lt;/a&gt;. The locations were merged in a single map before buffer zones were created based on the known burial mound locations. The buffer map works relatively well when referenced to the known Bronze Age finds from ARCHIS as indeed, a lot of finds cluster around the burial mounds. However, there is also a noticeable cluster of finds on the right (add circle) which are far away from a burial mound. This can be an indicator for more burial mounds there since the known burial mounds do align in a diagonal pattern. &lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;References
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;History of Rhenen:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://oudrhenen.nl/historie-van-rhenen/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://oudrhenen.nl/historie-van-rhenen/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://nl.wikipedia.org/wiki/Rhenen&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://nl.wikipedia.org/wiki/Rhenen&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Information on burial mounds:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.heuvelrugopdekaart.nl&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.heuvelrugopdekaart.nl&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.pdok.nl/introductie/-/article/beschermde-gebieden-cultuurhistorie-inspire-geharmoniseerd-&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.pdok.nl/introductie/-/article/beschermde-gebieden-cultuurhistorie-inspire-geharmoniseerd-&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

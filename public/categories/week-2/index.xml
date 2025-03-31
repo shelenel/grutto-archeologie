@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Week 2 on Grutto Archeologie</title>
+        <link>http://localhost:4321/categories/week-2/</link>
+        <description>Recent content in Week 2 on Grutto Archeologie</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <lastBuildDate>Mon, 03 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:4321/categories/week-2/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Week 2 - The Wonders of ARCHIS!</title>
+        <link>http://localhost:4321/p/week2/</link>
+        <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:4321/p/week2/</guid>
+        <description>&lt;p&gt;During this week, we got to look into the ARCHIS (Het Archeologisch Informatiesysteem) database which basically contains all information of archaeological activity that takes place in the Netherlands.&lt;/p&gt;
+&lt;p&gt;We downloaded and looked at information from version 3 of ARCHIS, which is the latest version. Before we bore you with additional details, here is a visual condensed overview of what we got out of the data:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:4321/p/week2/piechart_sitesfeature_merge.png&#34;
+	width=&#34;2065&#34;
+	height=&#34;1275&#34;
+	srcset=&#34;http://localhost:4321/p/week2/piechart_sitesfeature_merge_hu_78f192b00cd6f8c6.png 480w, http://localhost:4321/p/week2/piechart_sitesfeature_merge_hu_b947a508764df831.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Types of sites in our research area&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;161&#34;
+		data-flex-basis=&#34;388px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;The Late Middle Ages recorded to be the largest percentage of sites followed by the Iron Age. Paleolithic and Mesolithic sites are the most rarely recorded. Again, these are the known recorded sites and do not necessarily represent the true archaeological record of the area. This might be due to bias and other factors like site preservation.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:4321/p/week2/piechart_municipal_sites.jpg&#34;
+	width=&#34;2187&#34;
+	height=&#34;1350&#34;
+	srcset=&#34;http://localhost:4321/p/week2/piechart_municipal_sites_hu_f9ff92c41b891c8.jpg 480w, http://localhost:4321/p/week2/piechart_municipal_sites_hu_16ffe37bb1fb77d9.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Sites per municipality&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;162&#34;
+		data-flex-basis=&#34;388px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;It is interesting to also note that Rhenen has almost half of the recorded sites from the municipalities within our research area while Veenendaal is the least (which was not surprising during our research because we could barely find anything documented there). More research is needed to analyse why exactly are the results so, if they stem from bias or other factors.&lt;/p&gt;
+&lt;p&gt;Moving on to looking at several reports and archaeological activities within the research area, we recorded some notable finds and sites from each municipality by looking through the ARCHIS database as well as other maps documenting monuments and archaeology (e.g. Rijksmonument, Utrechtse Heuvelrug op de Kaart etc.)&lt;/p&gt;
+&lt;h2 id=&#34;utrechtse-heuvelrug&#34;&gt;Utrechtse-Heuvelrug
+&lt;/h2&gt;&lt;p&gt;We read about Leersum and Amerongen in this region. Leersum notably has been habitated since the Bronze Age to the Merovingian period.&lt;/p&gt;
+&lt;h2 id=&#34;buren&#34;&gt;Buren
+&lt;/h2&gt;&lt;p&gt;Buren mostly consisted of Roman and Middle Ages finds, with a specific Roman coin hoard found recently in 2017.&lt;/p&gt;
+&lt;h2 id=&#34;veenendaal&#34;&gt;Veenendaal
+&lt;/h2&gt;&lt;p&gt;Pottery fragments and crockery were found near Fort aan de Buurtsteeg dating to 18-19th centuries. Expectation for Nieuwe Tijd finds are high.&lt;/p&gt;
+&lt;h2 id=&#34;ede&#34;&gt;Ede
+&lt;/h2&gt;&lt;p&gt;Very little Iron Age research has been done here despite an Iron Age found here with two huts dated to the end of the 5th century CE.&lt;/p&gt;
+&lt;h2 id=&#34;rhenen&#34;&gt;Rhenen
+&lt;/h2&gt;&lt;p&gt;An Iron Age settlement was found here in 2018 although the main building of the settlement was not found. Hence, they expect the main building to be found someday in the vicinity of the site.&lt;/p&gt;
+&lt;h2 id=&#34;tiel&#34;&gt;Tiel
+&lt;/h2&gt;&lt;p&gt;A Batavian burial ground site was located here. Gully deposits from 1250-800 BCE also found here. Finds from Roman period and Late Middle Ages-Nieuwe Tijd.&lt;/p&gt;
+&lt;h1 id=&#34;protected-monuments&#34;&gt;Protected Monuments
+&lt;/h1&gt;&lt;p&gt;Also during this session, legally protected monuments were mapped in the research area using the WFS client of the RCE in QGIS. Monuments outside of the bounds of the research area were removed through clipping; the 11 monuments within were then described with the attributes dating and type, based on their descriptions in a monument registry. A categorized symbology was made using this information, which helped to visualize the dates and type of sites in this region. This was notably difficult because there were instances of multiple phases of occupation and multiple finds from one site, which was hard to simplify into a &amp;ldquo;main date&amp;rdquo; or &amp;ldquo;main type&amp;rdquo; for a visual analysis.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

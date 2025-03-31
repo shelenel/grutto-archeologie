@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on Grutto Archeologie</title>
+        <link>http://localhost:4321/page/</link>
+        <description>Recent content in Pages on Grutto Archeologie</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:4321/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Archives</title>
+        <link>http://localhost:4321/archives/</link>
+        <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:4321/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>About</title>
+        <link>http://localhost:4321/about/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:4321/about/</guid>
+        <description>&lt;p&gt;&lt;img src=&#34;http://localhost:4321/about/images/grutto_logo_transparency.png&#34;
+	width=&#34;2155&#34;
+	height=&#34;1493&#34;
+	srcset=&#34;http://localhost:4321/about/images/grutto_logo_transparency_hu_20a6759a29477c06.png 480w, http://localhost:4321/about/images/grutto_logo_transparency_hu_18d8530ed96d9615.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;144&#34;
+		data-flex-basis=&#34;346px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h1 id=&#34;who-are-we-what-do-we-do&#34;&gt;Who are we? What do we do?
+&lt;/h1&gt;&lt;p&gt;Grutto Archeologie is a (fictional) archaeological prospection company run by NyAnna Beeman and Shelene Low. Inspired by the Grutto (Black-tailed godwit), the threatened national bird of the Netherlands, we aim to use predictive modelling as a method to help with preserving archaeology in the Netherlands which can be threatened by various development and construction projects.&lt;/p&gt;
+&lt;h2 id=&#34;technical-stuff&#34;&gt;Technical stuff
+&lt;/h2&gt;&lt;p&gt;This blog is made possible with RStudio and the Blogdown R package. The blog makes use of a free &lt;a class=&#34;link&#34; href=&#34;https://github.com/CaiJimmy/hugo-theme-stack&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Hugo theme from Jimmy Cai&lt;/a&gt;. Updates of the blog are continuously deployed through GitHub and the &lt;a class=&#34;link&#34; href=&#34;https://github.com/shelenel/grutto-archeologie&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;source code is publicly available&lt;/a&gt;.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Links</title>
+        <link>http://localhost:4321/links/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:4321/links/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>http://localhost:4321/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:4321/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

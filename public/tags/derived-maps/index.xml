@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Derived Maps on Grutto Archeologie</title>
+        <link>http://localhost:4321/tags/derived-maps/</link>
+        <description>Recent content in Derived Maps on Grutto Archeologie</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <lastBuildDate>Mon, 03 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:4321/tags/derived-maps/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Week 4 - Landscape Characteristics</title>
+        <link>http://localhost:4321/p/week4/</link>
+        <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:4321/p/week4/</guid>
+        <description>&lt;img src="http://localhost:4321/p/week4/images/utrechtse-heuvelrug.jpg" alt="Featured image of post Week 4 - Landscape Characteristics" /&gt;&lt;p&gt;In this week, we mapped various landscape characteristics which could have influenced site location choices by humans in the past. Soil, geomorphological, geology and paleogeographical maps were simplified to make analysis more relevant and useful for archaeology. Other landscape characteristics were also considered such as distance to water, slope and aspect. These were more challenging as they go beyond mere reclassification of existing maps, requiring us to create derived maps.&lt;/p&gt;
+&lt;p&gt;(Blog cover image credit: Samenwerkingsverband Nationale Parken, &lt;a class=&#34;link&#34; href=&#34;https://nationaalpark.nl/park/nationaal-park-utrechtse-heuvelrug/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://nationaalpark.nl/park/nationaal-park-utrechtse-heuvelrug/&lt;/a&gt;)&lt;/p&gt;
+&lt;h1 id=&#34;where-can-we-keep-our-feet-dry&#34;&gt;&lt;strong&gt;Where can we keep our feet dry?&lt;/strong&gt;
+&lt;/h1&gt;&lt;p&gt;Although we already looked at a soil map in previous sessions, the soil map of our research area is simplified further this time by categorising various parts of landscape by their degree of wetness in the past. This is based on the assumption that people would prefer to settle in areas that are dry. The column with the depth of ground water was extracted from the soil map for this.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:4321/p/week4/images/PM_Groundwatertable.jpg&#34;
+	width=&#34;2392&#34;
+	height=&#34;3135&#34;
+	srcset=&#34;http://localhost:4321/p/week4/images/PM_Groundwatertable_hu_7bb67b75b645b1ab.jpg 480w, http://localhost:4321/p/week4/images/PM_Groundwatertable_hu_86e92aa0b442822b.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;76&#34;
+		data-flex-basis=&#34;183px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;From the reclassified map, it is easy to observe that the north-eastern part of our research area was very damp and wet which makes it unfavourable for human inhabitation. &lt;/p&gt;
+&lt;h1 id=&#34;good-soils-for-habitation&#34;&gt;Good soils for habitation
+&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:4321/p/week4/images/PM_SoilMap.jpg&#34;
+	width=&#34;2710&#34;
+	height=&#34;2982&#34;
+	srcset=&#34;http://localhost:4321/p/week4/images/PM_SoilMap_hu_87182be3a4e6f137.jpg 480w, http://localhost:4321/p/week4/images/PM_SoilMap_hu_3ec27a92e1ed7f2d.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;90&#34;
+		data-flex-basis=&#34;218px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;From the previous complex soil map we have, we further simplified it by only including a few main soil categories. This is such that we can observe more simply where people would have preferred to settle on the landscape based on soil texture. People would not have preferred to settle on areas with clay soil since it is not suitable for agriculture. Instead, areas with sandy soils or peat are deemed more favourable. Hence, it can be observed that the northern part of our research area above the river Rhine seemed to have more favourable soil textures for habitation with mostly sand and peat compared to the south consisting mostly clay. &lt;/p&gt;
+&lt;p&gt;If we were to add the finds and features from all periods, we can observe that the finds and features indeed reflect a relation with the soil textures and dampness of the landscape.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:4321/p/week4/images/Groundwatertable_Findlocations.png&#34;
+	width=&#34;557&#34;
+	height=&#34;841&#34;
+	srcset=&#34;http://localhost:4321/p/week4/images/Groundwatertable_Findlocations_hu_bedd32d488c73825.png 480w, http://localhost:4321/p/week4/images/Groundwatertable_Findlocations_hu_432a0d2e9c3becf6.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;66&#34;
+		data-flex-basis=&#34;158px&#34;
+	
+&gt; &lt;img src=&#34;http://localhost:4321/p/week4/images/Soilmap_Findlocations.png&#34;
+	width=&#34;566&#34;
+	height=&#34;846&#34;
+	srcset=&#34;http://localhost:4321/p/week4/images/Soilmap_Findlocations_hu_335630ee3391d9dc.png 480w, http://localhost:4321/p/week4/images/Soilmap_Findlocations_hu_f7f80ffda5436641.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;66&#34;
+		data-flex-basis=&#34;160px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h1 id=&#34;living-close-to-the-river&#34;&gt;Living close to the river?
+&lt;/h1&gt;&lt;p&gt;By comparing the paleogeographical maps with our research area, we could see that there were no changes in the river channels within our research area until time slice 5500 (3500 BCE) because the active river belt flowing from the West has not reached the research area. Before the second last Saalien glaciation, the river flow direction of the Rhine-Maas was northwest (Kasse &amp;amp; Griede, 2005). However, during the Saalien glaciation, an ice sheet (Fennoscadian ice sheet) reached the central part of the Netherlands and diverted the river courses of the Rhine-Maas to the West, up till today (Kasse &amp;amp; Griede, 2005).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:4321/p/week4/images/t5500_3500BCE.png&#34;
+	width=&#34;847&#34;
+	height=&#34;675&#34;
+	srcset=&#34;http://localhost:4321/p/week4/images/t5500_3500BCE_hu_d962d655a3a3cf34.png 480w, http://localhost:4321/p/week4/images/t5500_3500BCE_hu_237a4203174b8056.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;State of river channel during c. 3500 BCE&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;125&#34;
+		data-flex-basis=&#34;301px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:4321/p/week4/images/Ageofrivers.png&#34;
+	width=&#34;1122&#34;
+	height=&#34;913&#34;
+	srcset=&#34;http://localhost:4321/p/week4/images/Ageofrivers_hu_247dc45f0fd6e978.png 480w, http://localhost:4321/p/week4/images/Ageofrivers_hu_65f07d4999178dac.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Age of present-day river channels in our research area&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;122&#34;
+		data-flex-basis=&#34;294px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Week 3 on Grutto Archeologie</title>
+        <link>http://localhost:4321/categories/week-3/</link>
+        <description>Recent content in Week 3 on Grutto Archeologie</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <lastBuildDate>Mon, 24 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:4321/categories/week-3/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Week 3 - Distortions and Manipulations</title>
+        <link>http://localhost:4321/p/week3/</link>
+        <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:4321/p/week3/</guid>
+        <description>&lt;img src="http://localhost:4321/p/week3/images/ocurrenceoffindlocaties.png" alt="Featured image of post Week 3 - Distortions and Manipulations" /&gt;&lt;p&gt;In this week, we made important decisions in merging data from ARCHIS based on our research question as well as considering distorting factors in our maps. &lt;/p&gt;
+&lt;h1 id=&#34;archaeological-finds-or-sites&#34;&gt;&lt;strong&gt;Archaeological finds or sites?&lt;/strong&gt;
+&lt;/h1&gt;&lt;p&gt;Because ARCHIS merges archaeological data from finds all together, there are several entries in the database with the same coordinates. This problem stems from having several finds locations within one archaeological site as well as having multiple finds within one find location. Creating a predictive model using that data would be problematic because sites with more finds or more intensively researched sites will outweigh other sites that might not necessarily have that many (or any) finds. Hence, we made a conscious decision to create a distribution map based on archaeological site locations rather than finds.&lt;/p&gt;
+&lt;p&gt;Afterwards, we had to create additional maps based on different categories.&lt;/p&gt;
+&lt;h2 id=&#34;methodology&#34;&gt;&lt;strong&gt;Methodology&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;Our general methodology in separating the ARCHIS data for the predictive model is as follows:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:4321/p/week3/images/PM_Methodology-01.jpg&#34;
+	width=&#34;1090&#34;
+	height=&#34;640&#34;
+	srcset=&#34;http://localhost:4321/p/week3/images/PM_Methodology-01_hu_3f87d5d434a37323.jpg 480w, http://localhost:4321/p/week3/images/PM_Methodology-01_hu_a19d50a9c580ad5c.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Methodology diagram&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;170&#34;
+		data-flex-basis=&#34;408px&#34;
+	
+&gt; Grouping the sites by their time periods is central for us, before we analyse the type of sites based on geology and economic activities.&lt;/p&gt;
+&lt;p&gt;We separated the data into the various ARCHIS main periods (e.g. MESO for Mesolithic, ROM for Roman period) because we believed that in each time period, there was a different type of geology that could have influenced the type of economic activities taking place then. &lt;/p&gt;
+&lt;p&gt;Based on this, we could clearly see where in the research area did sites cluster around during a certain time period and perhaps explain this with the geology and economic activities during that time. Additionally, we could see which municipality has the most researched sites. This could be from a bias such as more development of specific towns/cities that allowed more archaeological events to take place there.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:4321/p/week3/images/ironagesites.jpg&#34;
+	width=&#34;677&#34;
+	height=&#34;565&#34;
+	srcset=&#34;http://localhost:4321/p/week3/images/ironagesites_hu_669d882fdd10427.jpg 480w, http://localhost:4321/p/week3/images/ironagesites_hu_f680941eea6df343.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Iron Age sites represented as red dots&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;119&#34;
+		data-flex-basis=&#34;287px&#34;
+	
+&gt; &lt;img src=&#34;http://localhost:4321/p/week3/images/romansites.jpg&#34;
+	width=&#34;470&#34;
+	height=&#34;525&#34;
+	srcset=&#34;http://localhost:4321/p/week3/images/romansites_hu_7dbffaa293d74c61.jpg 480w, http://localhost:4321/p/week3/images/romansites_hu_bd616bbe2db2cda.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Roman sites represented as blue dots&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;89&#34;
+		data-flex-basis=&#34;214px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;For example, we can already see how sites from the Iron Age cluster around the side of the ice push moraine as well as a small cluster around the town of Ede. This can be compared to the Roman sites which appear to have a different cluster around towards the south of our research area.&lt;/p&gt;
+&lt;h1 id=&#34;distorting-factors&#34;&gt;&lt;strong&gt;Distorting Factors&lt;/strong&gt;
+&lt;/h1&gt;&lt;p&gt;Distorting factors allow us to analyse what could have influenced the distribution pattern of sites. For this, we looked at geomorphological, soil maps and also used a mask layer on the map to check the reliability of site distribution.&lt;/p&gt;
+&lt;h2 id=&#34;geomorphological-map&#34;&gt;Geomorphological map
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:4321/p/week3/images/ocurrenceoffindlocaties.png&#34;
+	width=&#34;934&#34;
+	height=&#34;841&#34;
+	srcset=&#34;http://localhost:4321/p/week3/images/ocurrenceoffindlocaties_hu_88f62a56a5c9dfa3.png 480w, http://localhost:4321/p/week3/images/ocurrenceoffindlocaties_hu_8de5386d6f3994d6.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Red dots represent find locations&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;111&#34;
+		data-flex-basis=&#34;266px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;From the geomorphological map, it appears that most finds are found on river banks, gullies, meltwater fans and the ice push moraine itself. Spatial distribution of finds seem to cluster near water sources while northern sand ridges do not seem to have been investigated much.&lt;/p&gt;
+&lt;h2 id=&#34;soil-maps&#34;&gt;&lt;strong&gt;Soil maps&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;From the soil maps, we came to the conclusion that the Rd9 soil profile (heavy loam, light clay) yields a lot of sites which might be because of construction/development projects. Heavy clay yields the least sites since it is the least habitable soil type. We also noted down the presence of terps in our research area which indeed also showed many site occurrences.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:4321/p/week3/images/plaggen_riverclaycalcium.png&#34;
+	width=&#34;937&#34;
+	height=&#34;818&#34;
+	srcset=&#34;http://localhost:4321/p/week3/images/plaggen_riverclaycalcium_hu_b22e470accf35e09.png 480w, http://localhost:4321/p/week3/images/plaggen_riverclaycalcium_hu_c0ea11244913ccb2.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Green area represents river clay with calcium. Purple area represents plaggen soil.&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;114&#34;
+		data-flex-basis=&#34;274px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
